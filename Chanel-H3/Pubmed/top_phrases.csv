@@ -1,161 +1,126 @@
-phrase,cluster,phrase_ts_graph_url
-hair,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/hair.html
-Chinese,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Chinese.html
-acne,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/acne.html
-plastic surgeons,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/plastic%20surgeons.html
-environment,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/environment.html
-plants,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/plants.html
-nose,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/nose.html
-wrinkles,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/wrinkles.html
-implants,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/implants.html
-nanoparticles,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/nanoparticles.html
-properties,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/properties.html
-cosmetic industry,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/cosmetic%20industry.html
-inclusion criteria,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/inclusion%20criteria.html
-hyperpigmentation,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/hyperpigmentation.html
-parents,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/parents.html
-collagen,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/collagen.html
-pathogenesis,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pathogenesis.html
-infants,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/infants.html
-formulations,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/formulations.html
-placebo,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/placebo.html
-anxiety,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/anxiety.html
-melanin,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/melanin.html
-melanogenesis,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/melanogenesis.html
-surgical excision,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/surgical%20excision.html
-surgical outcomes,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/surgical%20outcomes.html
-interaction,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/interaction.html
-dermis,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/dermis.html
-platelet-rich plasma,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/platelet-rich%20plasma.html
-antioxidant,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/antioxidant.html
-Saudi Arabia,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Saudi%20Arabia.html
-evolution,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/evolution.html
-reactive oxygen species,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/reactive%20oxygen%20species.html
-YAG laser,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/YAG%20laser.html
-preparation,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/preparation.html
-differentiation,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/differentiation.html
-decrease,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/decrease.html
-chitosan,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/chitosan.html
-month,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/month.html
-race,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/race.html
-lasers,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/lasers.html
-attractiveness,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/attractiveness.html
-hyaluronic acid,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/hyaluronic%20acid.html
-ingredients,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/ingredients.html
-radiotherapy,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/radiotherapy.html
-concentrations,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/concentrations.html
-wound healing,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/wound%20healing.html
-practice,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/practice.html
-oxidative stress,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/oxidative%20stress.html
-stability,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/stability.html
-proteins,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/proteins.html
-severity,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/severity.html
-surgical treatment,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/surgical%20treatment.html
-extracts,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/extracts.html
-antioxidant activity,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/antioxidant%20activity.html
-resection,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/resection.html
-adolescents,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/adolescents.html
-minutes,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/minutes.html
-botulinum toxin,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/botulinum%20toxin.html
-extraction,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/extraction.html
-areas,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/areas.html
-makeup,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/makeup.html
-area,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/area.html
-removal,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/removal.html
-length,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/length.html
-facial attractiveness,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/facial%20attractiveness.html
-popularity,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/popularity.html
-activity,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/activity.html
-population,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/population.html
-detection,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/detection.html
-wide range,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/wide%20range.html
-choice,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/choice.html
-cosmesis,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/cosmesis.html
-structure,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/structure.html
-countries,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/countries.html
-complication,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/complication.html
-body image,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/body%20image.html
-Cosmetics,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Cosmetics.html
-regulation,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/regulation.html
-pharmaceutical,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pharmaceutical.html
-consumers,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/consumers.html
-invasion,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/invasion.html
-insulin resistance,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/insulin%20resistance.html
-breastfeeding,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/breastfeeding.html
-APBI,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/APBI.html
-experiment,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/experiment.html
-tenotomy,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/tenotomy.html
-ascorbic acid,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/ascorbic%20acid.html
-ischemic stroke,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/ischemic%20stroke.html
-publication,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/publication.html
-calcium hydroxylapatite,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/calcium%20hydroxylapatite.html
-paintings,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/paintings.html
-appropriate period,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/appropriate%20period.html
-patch testing,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/patch%20testing.html
-proximal hypospadias,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/proximal%20hypospadias.html
-tumour bed boost,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/tumour%20bed%20boost.html
-gynecomastia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/gynecomastia.html
-camouflage,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/camouflage.html
-red algae,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/red%20algae.html
-caffeine,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/caffeine.html
-arbutin,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/arbutin.html
-temporal region,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/temporal%20region.html
-breastfeeding abstinence,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/breastfeeding%20abstinence.html
-petrolatum,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/petrolatum.html
-postherpetic neuralgia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/postherpetic%20neuralgia.html
-autologous fat transplantation,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/autologous%20fat%20transplantation.html
-allantoin,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/allantoin.html
-cryolipolysis,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/cryolipolysis.html
-skin microbiome,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/skin%20microbiome.html
-bruxism,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/bruxism.html
-biceps,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/biceps.html
-marginal mandibular nerve,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/marginal%20mandibular%20nerve.html
-metabolic syndrome,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/metabolic%20syndrome.html
-myopia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/myopia.html
-surgical site infection,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/surgical%20site%20infection.html
-pharmacists,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pharmacists.html
-low quality,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/low%20quality.html
-Alopecia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Alopecia.html
-larvae,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/larvae.html
-mast cells,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/mast%20cells.html
-schizophrenia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/schizophrenia.html
-practices,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/practices.html
-vitamin C,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/vitamin%20C.html
-radiation therapy,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/radiation%20therapy.html
-atrophic acne scars,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/atrophic%20acne%20scars.html
-thymol,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/thymol.html
-filler injection,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/filler%20injection.html
-conventional surgery,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/conventional%20surgery.html
-downregulation,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/downregulation.html
-motivations,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/motivations.html
-fertility,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/fertility.html
-oral health,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/oral%20health.html
-minoxidil,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/minoxidil.html
-pterygium,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pterygium.html
-smile esthetics,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/smile%20esthetics.html
-Hispanic,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Hispanic.html
-water solubility,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/water%20solubility.html
-antibodies,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/antibodies.html
-sun exposure,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/sun%20exposure.html
-drains,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/drains.html
-repeat treatment,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/repeat%20treatment.html
-pain score,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pain%20score.html
-spasticity,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/spasticity.html
-energy-based devices,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/energy-based%20devices.html
-IPL,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/IPL.html
-urinary incontinence,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/urinary%20incontinence.html
-capability,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/capability.html
-varieties,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/varieties.html
-cosmetic iris implants,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/cosmetic%20iris%20implants.html
-Future research,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Future%20research.html
-actions,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/actions.html
-periods,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/periods.html
-scenario,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/scenario.html
-African Americans,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/African%20Americans.html
-sexual satisfaction,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/sexual%20satisfaction.html
-pilonidal sinus disease,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pilonidal%20sinus%20disease.html
-similarities,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/similarities.html
-disordered eating,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/disordered%20eating.html
-Authors,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Authors.html
-polymorphisms,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/polymorphisms.html
-autologous reconstruction,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/autologous%20reconstruction.html
+phrase,cluster,phrase_ts_graph_url,phrase_traceback_url
+hair,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/hair.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_hair.html
+Chinese,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Chinese.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_Chinese.html
+acne,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/acne.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_acne.html
+plastic surgeons,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/plastic%20surgeons.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_plastic%20surgeons.html
+environment,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/environment.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_environment.html
+plants,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/plants.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_plants.html
+nose,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/nose.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_nose.html
+wrinkles,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/wrinkles.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_wrinkles.html
+implants,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/implants.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_implants.html
+nanoparticles,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/nanoparticles.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_nanoparticles.html
+properties,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/properties.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_properties.html
+cosmetic industry,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/cosmetic%20industry.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_cosmetic%20industry.html
+hyperpigmentation,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/hyperpigmentation.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_hyperpigmentation.html
+parents,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/parents.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_parents.html
+collagen,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/collagen.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_collagen.html
+formulations,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/formulations.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_formulations.html
+anxiety,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/anxiety.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_anxiety.html
+melanin,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/melanin.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_melanin.html
+melanogenesis,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/melanogenesis.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_melanogenesis.html
+surgical excision,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/surgical%20excision.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_surgical%20excision.html
+surgical outcomes,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/surgical%20outcomes.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_surgical%20outcomes.html
+dermis,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/dermis.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_dermis.html
+platelet-rich plasma,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/platelet-rich%20plasma.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_platelet-rich%20plasma.html
+antioxidant,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/antioxidant.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_antioxidant.html
+Saudi Arabia,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Saudi%20Arabia.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_Saudi%20Arabia.html
+reactive oxygen species,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/reactive%20oxygen%20species.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_reactive%20oxygen%20species.html
+YAG laser,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/YAG%20laser.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_YAG%20laser.html
+preparation,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/preparation.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_preparation.html
+differentiation,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/differentiation.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_differentiation.html
+chitosan,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/chitosan.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_chitosan.html
+race,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/race.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_race.html
+lasers,5,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/lasers.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_lasers.html
+attractiveness,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/attractiveness.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_attractiveness.html
+hyaluronic acid,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/hyaluronic%20acid.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_hyaluronic%20acid.html
+ingredients,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/ingredients.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_ingredients.html
+radiotherapy,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/radiotherapy.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_radiotherapy.html
+concentrations,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/concentrations.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_concentrations.html
+wound healing,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/wound%20healing.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_wound%20healing.html
+practice,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/practice.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_practice.html
+oxidative stress,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/oxidative%20stress.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_oxidative%20stress.html
+surgical treatment,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/surgical%20treatment.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_surgical%20treatment.html
+extracts,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/extracts.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_extracts.html
+antioxidant activity,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/antioxidant%20activity.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_antioxidant%20activity.html
+resection,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/resection.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_resection.html
+adolescents,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/adolescents.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_adolescents.html
+botulinum toxin,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/botulinum%20toxin.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_botulinum%20toxin.html
+extraction,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/extraction.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_extraction.html
+makeup,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/makeup.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_makeup.html
+removal,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/removal.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_removal.html
+facial attractiveness,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/facial%20attractiveness.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_facial%20attractiveness.html
+popularity,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/popularity.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_popularity.html
+cosmesis,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/cosmesis.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_cosmesis.html
+structure,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/structure.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_structure.html
+countries,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/countries.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_countries.html
+body image,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/body%20image.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_body%20image.html
+Cosmetics,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Cosmetics.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_Cosmetics.html
+regulation,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/regulation.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_regulation.html
+pharmaceutical,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pharmaceutical.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_pharmaceutical.html
+consumers,15,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/consumers.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_consumers.html
+invasion,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/invasion.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_invasion.html
+insulin resistance,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/insulin%20resistance.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_insulin%20resistance.html
+breastfeeding,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/breastfeeding.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_breastfeeding.html
+APBI,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/APBI.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_APBI.html
+tenotomy,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/tenotomy.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_tenotomy.html
+ascorbic acid,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/ascorbic%20acid.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_ascorbic%20acid.html
+ischemic stroke,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/ischemic%20stroke.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_ischemic%20stroke.html
+calcium hydroxylapatite,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/calcium%20hydroxylapatite.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_calcium%20hydroxylapatite.html
+paintings,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/paintings.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_paintings.html
+appropriate period,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/appropriate%20period.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_appropriate%20period.html
+patch testing,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/patch%20testing.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_patch%20testing.html
+proximal hypospadias,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/proximal%20hypospadias.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_proximal%20hypospadias.html
+tumour bed boost,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/tumour%20bed%20boost.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_tumour%20bed%20boost.html
+gynecomastia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/gynecomastia.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_gynecomastia.html
+camouflage,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/camouflage.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_camouflage.html
+red algae,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/red%20algae.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_red%20algae.html
+caffeine,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/caffeine.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_caffeine.html
+arbutin,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/arbutin.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_arbutin.html
+temporal region,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/temporal%20region.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_temporal%20region.html
+breastfeeding abstinence,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/breastfeeding%20abstinence.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_breastfeeding%20abstinence.html
+petrolatum,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/petrolatum.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_petrolatum.html
+postherpetic neuralgia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/postherpetic%20neuralgia.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_postherpetic%20neuralgia.html
+autologous fat transplantation,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/autologous%20fat%20transplantation.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_autologous%20fat%20transplantation.html
+allantoin,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/allantoin.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_allantoin.html
+cryolipolysis,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/cryolipolysis.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_cryolipolysis.html
+skin microbiome,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/skin%20microbiome.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_skin%20microbiome.html
+bruxism,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/bruxism.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_bruxism.html
+biceps,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/biceps.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_biceps.html
+marginal mandibular nerve,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/marginal%20mandibular%20nerve.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_marginal%20mandibular%20nerve.html
+metabolic syndrome,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/metabolic%20syndrome.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_metabolic%20syndrome.html
+myopia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/myopia.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_myopia.html
+surgical site infection,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/surgical%20site%20infection.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_surgical%20site%20infection.html
+pharmacists,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pharmacists.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_pharmacists.html
+Alopecia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Alopecia.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_Alopecia.html
+larvae,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/larvae.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_larvae.html
+mast cells,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/mast%20cells.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_mast%20cells.html
+schizophrenia,4,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/schizophrenia.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_schizophrenia.html
+practices,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/practices.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_practices.html
+vitamin C,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/vitamin%20C.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_vitamin%20C.html
+radiation therapy,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/radiation%20therapy.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_radiation%20therapy.html
+atrophic acne scars,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/atrophic%20acne%20scars.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_atrophic%20acne%20scars.html
+thymol,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/thymol.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_thymol.html
+filler injection,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/filler%20injection.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_filler%20injection.html
+conventional surgery,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/conventional%20surgery.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_conventional%20surgery.html
+downregulation,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/downregulation.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_downregulation.html
+fertility,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/fertility.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_fertility.html
+oral health,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/oral%20health.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_oral%20health.html
+minoxidil,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/minoxidil.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_minoxidil.html
+pterygium,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pterygium.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_pterygium.html
+smile esthetics,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/smile%20esthetics.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_smile%20esthetics.html
+Hispanic,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/Hispanic.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_Hispanic.html
+water solubility,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/water%20solubility.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_water%20solubility.html
+antibodies,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/antibodies.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_antibodies.html
+sun exposure,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/sun%20exposure.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_sun%20exposure.html
+repeat treatment,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/repeat%20treatment.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_repeat%20treatment.html
+pain score,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pain%20score.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_pain%20score.html
+spasticity,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/spasticity.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_spasticity.html
+energy-based devices,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/energy-based%20devices.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_energy-based%20devices.html
+IPL,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/IPL.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_IPL.html
+cosmetic iris implants,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/cosmetic%20iris%20implants.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_cosmetic%20iris%20implants.html
+African Americans,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/African%20Americans.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_African%20Americans.html
+sexual satisfaction,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/sexual%20satisfaction.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_sexual%20satisfaction.html
+pilonidal sinus disease,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/pilonidal%20sinus%20disease.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_pilonidal%20sinus%20disease.html
+disordered eating,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/disordered%20eating.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_disordered%20eating.html
+polymorphisms,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/polymorphisms.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_polymorphisms.html
+autologous reconstruction,3,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/detail/autologous%20reconstruction.html,https://iterateai.github.io/Data-Science/Chanel-H3/Pubmed/cluster/traceback/traceback_autologous%20reconstruction.html
